@@ -1,0 +1,6 @@
+{
+  "name": "348-MAKTAB",
+  "description": "348-MAKTAB — 1–11-sinf o‘quvchilari, o‘qituvchilar va administratorlar uchun yagona raqamli maktab (LMS), 12 til markazi, SMS eslatmalar va Click obuna tizimi.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
